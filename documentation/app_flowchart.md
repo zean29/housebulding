@@ -1,0 +1,10 @@
+flowchart TD
+  Start[User Login] --> Req[Requirement Definition and Stakeholder Management]
+  Req --> Design[Architectural Design and Floor Plan Editor]
+  Design --> Estimate[Resource Estimation and Cost Calculation]
+  Estimate --> Schedule[Scheduling and Timeline Management]
+  Schedule --> Procurement[Materials Procurement and Inventory Control]
+  Procurement --> Collaboration[Collaboration and Communication Hub]
+  Collaboration --> Reporting[Reporting and Analytics]
+  Reporting --> Integration[Extensibility and Integration]
+  Integration --> End[End]
